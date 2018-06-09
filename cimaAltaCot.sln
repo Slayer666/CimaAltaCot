@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimaAltaCot.iOS", "CimaAlta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimaAltaCot.UWP", "CimaAltaCot\CimaAltaCot.UWP\CimaAltaCot.UWP.csproj", "{16A55920-63DE-411B-8E15-5C68C4075B39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimaAltaCot", "CimaAltaCot\CimaAltaCot\CimaAltaCot.csproj", "{801EE59F-441E-4AD2-AFA2-65F2BB750F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CimaAltaCot", "CimaAltaCot\CimaAltaCot\CimaAltaCot.csproj", "{801EE59F-441E-4AD2-AFA2-65F2BB750F78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
