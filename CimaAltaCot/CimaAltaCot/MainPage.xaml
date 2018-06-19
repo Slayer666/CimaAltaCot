@@ -9,10 +9,28 @@
         <Label Text="Welcome to Lucas Vete"
             HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand"   />
-        <Label Text="Redios vaya mierda       prueba definitiva       "
+        <Label Text="Redios vaya mierda       prueba definitiva      "
             HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-        
+
+       
+        <Label Text="Sea color" BackgroundColor="Aqua" />
+        <Label Text="RGB" BackgroundColor="#00FF00" />
+        <Label Text="Alpha plus RGB" BackgroundColor="#CC00FF00" />
+        <Label Text="Tiny RGB" BackgroundColor="#0F0" />
+        <Label Text="Tiny Alpha plus RGB" BackgroundColor="#C0F0" />
+
+        <BoxView Color="CornflowerBlue"
+             WidthRequest="160"
+             HeightRequest="160"
+             VerticalOptions="Center"
+             HorizontalOptions="Center" />
+
+
+        <Label Text="Prueba para IOS      "
+            HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
     </StackLayout>
 
 </ContentPage>
